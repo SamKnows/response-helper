@@ -1,16 +1,20 @@
 {
-    "name": "devboxr/response-helper",
-    "description": "A simple response helper that I use for my Laravel/Lumen 5+ projects.",
-    "license": "CC0",
-    "authors": [
-        {
-            "name": "devboxr",
-            "email": "devboxr@gmail.com"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "Devboxr\\ResponseHelper\\": "src/"
-        }
+  "name": "devboxr/response-helper",
+  "description": "A simple response helper that I use for my Laravel/Lumen 5+ projects.",
+  "license": "CC0",
+  "minimum-stability": "dev-master",
+  "require": {
+    "php": ">=5.4"
+  },
+  "authors": [
+    {
+      "name": "devboxr",
+      "email": "devboxr@gmail.com"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Devboxr\\ResponseHelper\\": "src/"
+    }
+  }
 }
