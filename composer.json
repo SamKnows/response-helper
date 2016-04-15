@@ -14,7 +14,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Devboxr\\ResponseHelper\\": "src/"
+      "Devboxr\\Helpers\\": "src/"
     }
   }
 }
