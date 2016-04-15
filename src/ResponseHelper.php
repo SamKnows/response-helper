@@ -1,6 +1,6 @@
 <?php
 
-namespace Devboxr\ResponseHelper;
+namespace Devboxr\Helpers;
 
 use Illuminate\Http\Response;
 

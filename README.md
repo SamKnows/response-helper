@@ -4,7 +4,7 @@ A simple response helper that I use for my Laravel/Lumen 5+. Its very simple goa
 
 ### Installation
 
-Composer install: `composer install devboxr/response-helper`
+Composer install: `composer require devboxr/response-helper`
 
 ### Use
 
