@@ -11,7 +11,7 @@ Composer install: `composer require devboxr/response-helper`
 ```php
 <?php
 
-use Devboxr\ResponseHelper;
+use Devboxr\Helpers;
 
 /**
  * There are more examples and the ResponseHelper is extended all the time.
