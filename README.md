@@ -25,5 +25,7 @@ ResponseHelper::notFound();
 
  // will return a status 500
 ResponseHelper::serverError();
+
+// Server error 500 with a reason
 ResponseHelper::serverError(500, ['error' => 'Could not contact external provider.']);
 ```
